@@ -1,2 +1,3 @@
 # FrameWorkMVC
-Framework php para desenvolvimento de aplicações PHP
+Framework php para desenvolvimento de aplicações PHP.
+
