@@ -16,7 +16,9 @@
 	</head>
 
 	<body>
-		<?= $this->content() ?>
+		<div class="container">
+			<?= $this->content() ?>
+		</div>
 	</body>
 
 </html>

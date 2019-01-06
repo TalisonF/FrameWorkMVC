@@ -14,6 +14,12 @@ class Route extends Bootstrap {
 			'action' => 'index'
 		);
 
+		$routes['MudaTexto'] = array(
+			'route' => '/MudaTexto',
+			'controller' => 'indexController',
+			'action' => 'mudarTexto'
+		);
+
 		$this->setRoutes($routes);
 	}
 
